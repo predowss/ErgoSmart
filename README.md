@@ -1,5 +1,15 @@
 # ErgoSmart – Monitor de Ergonomia e Fadiga Ocular com ESP32 (IoT)
 
+---
+
+## Participantes
+
+- Pedro Henrique Alves Guariente RM550301
+- Orlando Akio Morii Cardoso RM98067
+- David de Medeiros Pacheco Junior RM551462
+  
+---
+
 Projeto desenvolvido para a disciplina **Physical Computing (IoT & IoB)** dentro da **Global Solution 2025 – O Futuro do Trabalho**.
 
 A proposta do **ErgoSmart** é monitorar, em tempo real, aspectos de **saúde e bem-estar no trabalho remoto**, utilizando um ESP32 e sensores simples para:
@@ -101,12 +111,11 @@ https://wokwi.com/projects/448195097724084225
 
 ## 6. Imagens do Circuito
 
-Coloque as imagens do circuito e da simulação (prints do Wokwi) em uma pasta, por exemplo `img/`, e referencie aqui:
 
-```markdown
-![Visão geral do circuito](img/circuito.png)
-![Simulação no Wokwi](img/code.png)
-```
+<img width="726" height="686" alt="Image" src="https://github.com/user-attachments/assets/786dd13f-e018-41a7-9916-df3aea394986" />
+<img width="955" height="925" alt="Image" src="https://github.com/user-attachments/assets/1cd5ab33-871e-424b-bd0e-ad6ec6594752" />
+
+
 ---
 
 ## 7. Dependências
