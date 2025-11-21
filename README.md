@@ -104,8 +104,8 @@ https://wokwi.com/projects/448195097724084225
 Coloque as imagens do circuito e da simulação (prints do Wokwi) em uma pasta, por exemplo `img/`, e referencie aqui:
 
 ```markdown
-![Visão geral do circuito](<img width="654" height="655" alt="image" src="https://github.com/user-attachments/assets/07cd3f9e-4870-4c73-9c3b-66752600955c" />)
-![Simulação no Wokwi](<img width="957" height="896" alt="image" src="https://github.com/user-attachments/assets/a64f5770-1cb6-438c-9a58-04f25a006597" />)
+![Visão geral do circuito](img/circuito.png)
+![Simulação no Wokwi](img/code.png)
 ```
 ---
 
