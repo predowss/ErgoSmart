@@ -10,6 +10,17 @@
   
 ---
 
+## Links principais
+
+**Projeto Wokwi**
+[![Wokwi link]](https://wokwi.com/projects/448195097724084225)
+
+
+**Video no Youtube**
+[![LINK VIDEO NO YOUTUBE]](https://youtu.be/fKXded3PXXo)
+
+---
+
 Projeto desenvolvido para a disciplina **Physical Computing (IoT & IoB)** dentro da **Global Solution 2025 – O Futuro do Trabalho**.
 
 A proposta do **ErgoSmart** é monitorar, em tempo real, aspectos de **saúde e bem-estar no trabalho remoto**, utilizando um ESP32 e sensores simples para:
